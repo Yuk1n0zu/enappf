@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506740131066",
+    "project_id": "enapp-60221",
+    "storage_bucket": "enapp-60221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506740131066:android:053292f8f4e47443bf3543",
+        "android_client_info": {
+          "package_name": "com.example.enapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUktKOnmmoK1pYvImHBi5sean94Bwos00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506740131066:android:f1763ac8d148ebdebf3543",
+        "android_client_info": {
+          "package_name": "vn.edu.tlu.luucongquocdung.enappf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUktKOnmmoK1pYvImHBi5sean94Bwos00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
